@@ -1,13 +1,15 @@
 # stl_containers
 
-implementation of c++98 standard template library's containers
+School42 project. Implementation of C++98 standard template library's containers
 
-containers
+See `subject.pdf` in the root of repository for more detailed info about the project
+
+## Containers
 - vector with basic / strong exception safety
 - stack based on vector, compatible with std::deque and std::list
 - map & set based on red-black tree template class
 
-utils
+## Utils
 - enable_if
 - iterator_traits
 - reverse iterator
